@@ -1,0 +1,76 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 20px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    vertical-align:
+  }
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .search-div{
+      width: 0 auto;
+      margin: 0 auto;
+  }
+  .float-right{
+      float: right;
+  }
+  header{
+      color: white;
+      background-color: rgb(32, 101, 136);
+  }
+  .h-button{
+      background-color: rgb(240, 146, 51);
+      color: white;
+  }
+  .search-bar-bg{
+      background-color: rgb(31, 82, 111);
+  }
+  .div-heading{
+      padding: 0 auto;
+      margin: 0 auto;
+  }
+  .div-sec2{
+    color: white;
+    background-color: rgb(39, 53, 71);
+  }
+  .orgs-btn{
+      background-color: rgb(203, 56, 55);
+  }
+  .sec3-bg{
+      background-image: "/images/forklift.svg";
+      background-size: cover;
+      color: white;
+      position: absolute;
+
+  }
+  .install-npm-btn{
+      background-color: rgb(49, 68, 88);
+  }
+  .sec3-relative{
+      position: relative;
+  }
+  .sec4{
+      padding: 0 auto;
+  }
+  .l-contain{
+      width: 100%;
+     }
+.l-contain-child{
+    width: 33%;
+    display:inline-block;
+}
+
